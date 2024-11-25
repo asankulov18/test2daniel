@@ -1,0 +1,19 @@
+
+.block{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 16px;
+    border: 0cqh;
+
+}
+
+
+
+#counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
